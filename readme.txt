@@ -9,3 +9,7 @@ Git has a mutable index called stage
 
 to the best of our knowladge
 
+Creat a branch is easy in git
+
+
+
