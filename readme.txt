@@ -12,5 +12,5 @@ to the best of our knowladge
 Creat a branch is easy in git
 
 
-Creat a branch is easy and simple in git
+Creat a branch is easy and simple & git
 
