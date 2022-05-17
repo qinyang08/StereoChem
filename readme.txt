@@ -14,6 +14,6 @@ Creat a branch is easy & simple in git
 
 Creat a idea is easy and simple in  git
 i
-no-ff merger
+no-ff merger for the 101_bug fix
 
 
