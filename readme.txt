@@ -4,7 +4,7 @@ adskl
 Today is very nice day, I went to work 
 And I will go to the park 
 
-Git has a mutable index called stage
+Git has the mutable idea to index called stage
 
 
 to the best of our knowladge
